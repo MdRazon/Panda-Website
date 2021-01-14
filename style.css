@@ -1,0 +1,72 @@
+body{
+    font-family: 'Fraunces', serif;
+
+}
+.navbar-brand img{
+    width: 70%;
+
+}
+.name-highlight{
+    color: hsl(39, 88%, 51%);
+}
+
+.half-width .first-button{
+    width: 10%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 90%;
+}
+.women-card{
+    width: 80%;
+    height: 60;
+}
+.button{
+    display: flex;
+    padding: 2px;
+    float: right;
+    text-align: right;
+
+    
+}
+
+.card-footer img{
+    width: 20%;
+   
+   
+}
+.last-half-width{
+    width: 30%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    margin: 5%;
+}
+.last-half-width img{
+    width: 100%;
+
+}
+.last-half-width .icon-half-width img{
+    width: 80%;
+}
+.contact-section{
+    float: left;
+    width: 80%;
+}
+.footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+
+  
+    
+    
+  
+    
